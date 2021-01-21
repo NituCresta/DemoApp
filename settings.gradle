@@ -1,0 +1,3 @@
+//include ':singulaykeysdk'
+include ':app'
+rootProject.name = "SingularKeySdkDemo"

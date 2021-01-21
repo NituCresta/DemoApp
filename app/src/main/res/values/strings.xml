@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SingularKeySdkDemo</string>
+    <string name="congratulation_msg">Congratulation, you have successfully registered.</string>
+    <string name="login_congratulation_msg">Congratulation, you have successfully logged in.</string>
+
+</resources>
